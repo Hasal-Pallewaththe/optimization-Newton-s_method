@@ -1,0 +1,3 @@
+/home/has_wsl/CProgramWorkspace/problem_approach_04/build/CMakeFiles/rebuild_cache.dir
+/home/has_wsl/CProgramWorkspace/problem_approach_04/build/CMakeFiles/edit_cache.dir
+/home/has_wsl/CProgramWorkspace/problem_approach_04/build/CMakeFiles/Main.dir

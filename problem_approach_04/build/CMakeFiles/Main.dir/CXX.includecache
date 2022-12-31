@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/has_wsl/CProgramWorkspace/problem_approach_04/src/BaseProblem.h
+eigen3/Eigen/Core
+-
+iostream
+-
+
+/home/has_wsl/CProgramWorkspace/problem_approach_04/src/ExampleProblem.h
+eigen3/Eigen/Core
+-
+math.h
+-
+BaseProblem.h
+/home/has_wsl/CProgramWorkspace/problem_approach_04/src/BaseProblem.h
+
+/home/has_wsl/CProgramWorkspace/problem_approach_04/src/main.cpp
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Dense
+-
+iostream
+-
+ExampleProblem.h
+/home/has_wsl/CProgramWorkspace/problem_approach_04/src/ExampleProblem.h
+
